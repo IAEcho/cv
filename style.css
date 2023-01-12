@@ -1,0 +1,25 @@
+body {
+    background-color: #393E46;
+    color: rgb(238, 238, 238);
+}
+
+p {
+    color: #F7F7F7
+}
+
+.bio {
+    background-color: #6D9886;
+    height: 80%;
+    width: 80%;
+}
+
+.skills {
+    background-color: #937DC2;
+    width: 100px;
+    height: 100px;
+}
+
+h1 {
+    color: #F2E7D5;
+}
+
